@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <td valign="left">
   <div>
         <img style="margin_left:120px;position:absolute;" width="40px" src="https://www.citypng.com/public/uploads/small/11640439066gvdicej5lgzwysh67xgewiixiqsmd6phvcidruhbvrizlpwtl7qhjckdiizpl7lvj3dgyl780ezhsdo2yp6bqe8tvg7eqvaa1p6n.png" width="300" alt="Abeltony-prog"/>
-      <p>Web Application Development with over 5 years of experience as a backend developer in different tech companies in Rwanda.Project Data analyst with over 2 years.</p>
+      <p>Web Application Developer with over 5 years of experience as a backend developer in different tech companies.Data analyst with over 2 years of experience.</p>
       </div>
 <td >
 
@@ -42,8 +42,6 @@ Here are some ideas to get you started:
   <img width="60" src="https://cdn-icons.flaticon.com/png/512/2888/premium/2888407.png?token=exp=1653584210~hmac=6512f0b515e440b593c8c58f8e68c5a0"          width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/1688/1688413.png" width="300" alt="Abeltony-prog"/>
-  <img width="60" src="https://cdn-icons.flaticon.com/png/512/3239/premium/3239105.png?token=exp=1653584831~hmac=8de387546cf517a277e1e8feed5a6f76"          width="300" alt="Abeltony-prog"/>
-  <img width="60" src="https://cdn-icons.flaticon.com/png/512/4308/premium/4308025.png?token=exp=1653584842~hmac=1cdcf9cb6afdc0427a5af6bbc057e2f4"          width="300" alt="Abeltony-prog"/>
    <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="300" alt="Abeltony-prog"/>
       <ul>
