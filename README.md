@@ -3,6 +3,8 @@
 **abeltony-prog/abeltony-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abeltony-prog&theme=dracula&hide_border=true)
 -->
 
 <table>
@@ -46,3 +48,6 @@ Here are some ideas to get you started:
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="300" alt="Abeltony-prog"/>
       <ul>
   </div>
+  
+
+
