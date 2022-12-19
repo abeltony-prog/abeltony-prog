@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://laravel-livewire.com/img/twitter.png"          width="300" alt="Abeltony-prog"/>
-  <img width="60" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="300" alt="Abeltony-prog"/>
+  <img width="60" src="https://foghornconsulting.com/wp-content/uploads/2022/02/Azure_Logo.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKLSmQgq26IpWh1_tSZ9AyWFJ4v5biroQ5KQ&usqp=CAU" width="300" alt="Abeltony-prog"/>
    <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="300" alt="Abeltony-prog"/>
