@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <div>
   
-   <img width="60" src="https://cdn-icons-png.flaticon.com/512/3036/3036398.png" width="300" alt="Abeltony-prog"/>
+   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968218.png" width="300" alt="Abeltony-prog"/>
