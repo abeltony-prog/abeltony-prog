@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <td >
 
    <a>
-      <img src="https://w7.pngwing.com/pngs/419/83/png-transparent-ninja-illustration-computer-programming-programming-language-programmer-logo-introduction-miscellaneous-computer-computer-program.png" width="300" alt="Abeltony-prog"/>
+      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="300" alt="Abeltony-prog"/>
       <ul>
         <li>- 💬 In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</li>
         <li>- 📫 How to reach me: abeltony03@gmail.com</li>
