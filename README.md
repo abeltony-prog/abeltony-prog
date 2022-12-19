@@ -19,10 +19,8 @@ Here are some ideas to get you started:
    <a>
       <img src="https://cdn.dribbble.com/users/2592071/screenshots/7327591/logo-artboard_2_4x_4x.png" width="300" alt="Abeltony-prog"/>
       <ul>
-        <li>- 👯 I’m looking to collaborate on React Projects</li>
-        <li>- 💬 Ask me about anything</li>
-        <li>- 📫 How to reach me: abeltony@aol.com</li>
-        <li>- ⚡ Fun fact: love singing</li>
+        <li>- 💬 In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.</li>
+        <li>- 📫 How to reach me: abeltony03@gmail.com</li>
       </ul>
   </a>
 
