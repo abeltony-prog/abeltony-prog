@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" width="300" alt="Abeltony-prog"/>
-  <img width="60" src="https://cdn-icons.flaticon.com/png/512/2888/premium/2888407.png?token=exp=1653584210~hmac=6512f0b515e440b593c8c58f8e68c5a0"          width="300" alt="Abeltony-prog"/>
+  <img width="60" src="https://laravel-livewire.com/img/twitter.png"          width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="300" alt="Abeltony-prog"/>
   <img width="60" src="https://cdn-icons-png.flaticon.com/512/1688/1688413.png" width="300" alt="Abeltony-prog"/>
    <img width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="300" alt="Abeltony-prog"/>
