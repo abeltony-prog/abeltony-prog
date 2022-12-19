@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   <td valign="left">
   <div>
         <img style="margin_left:120px;position:absolute;" width="40px" src="https://www.citypng.com/public/uploads/small/11640439066gvdicej5lgzwysh67xgewiixiqsmd6phvcidruhbvrizlpwtl7qhjckdiizpl7lvj3dgyl780ezhsdo2yp6bqe8tvg7eqvaa1p6n.png" width="300" alt="Abeltony-prog"/>
-      <p>Web Application Developer with over 5 years of experience as a backend developer in different tech companies.Data analyst with over 2 years of experience.</p>
+      <p>Web Application Developer with over 7 years of experience as a backend developer in different tech companies.Data analyst with over 2 years of experience.</p>
       </div>
 <td >
 
